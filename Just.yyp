@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "e001e57b-7bc8-492e-8666-438b4c4d7edf",
+            "Value": {
+                "id": "e0e75e30-ae1b-438b-9101-350dc7937000",
+                "resourcePath": "objects\\low_class_slave_upgrade_button\\low_class_slave_upgrade_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e0ca8c29-d618-4de5-9cbe-402ef8c70af4",
             "Value": {
                 "id": "c9a1ea09-7182-4e2a-b89b-3794de54aaca",
