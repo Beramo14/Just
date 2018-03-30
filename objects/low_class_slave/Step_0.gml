@@ -1,4 +1,3 @@
-
 if(instance_exists(low_class_slave))
 {
 	x+=s*(ss); //이동  //상위클래스로 갈수록 속도 빨라짐
@@ -17,7 +16,4 @@ if(instance_exists(low_class_slave))
 s=low_class_slave_upgrade_button.bts;
 //추가할것 : 왼쪽에 광산 만들고 광산에도 등급이 있음 광산을 클릭하여 직접 돈을 벌수 도 있음//완료
 //추가할것 :  일꾼 업그래이드 버튼만들것//보류 ,상위클래스 만들것
-
-
-
 
